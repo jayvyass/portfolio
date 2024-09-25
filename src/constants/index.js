@@ -17,6 +17,7 @@ import {
   figma,
   docker,
   chatapp,
+  fruitables,
   meta,
   starbucks,
   iflair,
@@ -177,7 +178,27 @@ const projects = [
     image: chatapp,
     source_code_link: "https://github.com/jayvyass/real-time-chat",
   },
-  
+  {
+    name: "E-Commercer Site",
+    description:
+      "Fruitables is an e-commerce website built with Django, specializing in the sale of organic fruits and vegetables. Designed for seamless user experience, the platform offers a curated selection of fresh produce, complete with detailed product information and easy navigation.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Django",
+        color: "green-text-gradient",
+      },
+      {
+        name: "REST API",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: fruitables,
+    source_code_link: "https://github.com/jayvyass/E-commerce",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };

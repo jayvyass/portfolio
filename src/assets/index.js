@@ -30,6 +30,7 @@ import iflair from "./company/iflair.png";
 
 import carrent from "./carrent.png";
 import chatapp from "./chatapp.png";
+import fruitables from "./fruitables.webp";
 import sms from "./sms.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -45,6 +46,7 @@ export {
   menu,
   close,
   chatapp,
+  fruitables,
   css,
   docker,
   figma,
