@@ -139,7 +139,7 @@ const projects = [
   {
     name: "School Management System",
     description:
-      "The School Management System we developed using Laravel and PHP is a comprehensive web-based platform designed to streamline administrative tasks and enhance communication between stakeholders within educational institutions. It facilitates efficient management of student enrollment, attendance tracking, grades management, and curriculum planning.",
+      "The School Management System we developed using Laravel and PHP is a comprehensive web-based platform designed to streamline administrative tasks and enhance communication between stakeholders within educational institutions. ",
     tags: [
       {
         name: "php",
